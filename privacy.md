@@ -9,7 +9,7 @@ title: Duomo Privacy Policy
 
 [한국어](#ko) · [English](#en)
 
-시행일: 2026년 10월 30일
+시행일: 2026년 11월 7일
 
 Duomo(이하 "앱")는 **열린컴퓨터**(이하 "운영자")가 제공합니다. Duomo는 설정, 홈 배치, 위젯 위치, 고른 배경화면을 기기 안에만 저장합니다. 계정, 서버, 광고, 자체 분석 도구가 없고 오류 보고도 자동으로 보내지 않습니다. 기기 안 이미지 처리에 쓰는 Google 라이브러리는 아래에 따로 적었습니다.
 
@@ -20,7 +20,7 @@ Duomo(이하 "앱")는 **열린컴퓨터**(이하 "운영자")가 제공합니�
 - 배터리, Wi-Fi, 셀룰러 신호, 비행기 모드 상태를 홈 상태 표시에 씁니다. 신호 표시에 위치 권한은 필요하지 않습니다.
 - 사진을 고르면 기기 안에서 미리보기를 만들고, 적용을 누를 때만 바뀝니다. 안드로이드 사진 선택기는 고른 사진에만 접근을 허용합니다.
 - 일출·일몰 맞추기는 직접 입력한 좌표만 쓰며 위치 권한을 요청하지 않습니다. 시간 계산은 기기 안에서 하고, "위치 지우기"로 저장한 좌표를 지웁니다.
-- 연락처 검색은 연락처 권한을 허용했을 때만, 검색창에 입력하는 동안 맞는 연락처를 읽습니다. 저장하거나 보내지 않습니다.
+- 연락처는 연락처 권한을 허용했을 때만 읽습니다. 검색창에 입력하는 동안 맞는 연락처를 찾고, 연락처 위젯을 쓰면 고른 사람의 이름·사진·전화번호를 위젯에 보여 주거나 전화·문자 앱을 열 때 읽습니다. 이름과 번호는 저장하지 않고, 위젯 자리에는 그 사람을 다시 찾는 연락처 참조만 기기 안에 둡니다. 연락처는 기기 밖으로 보내지 않습니다.
 - 캘린더 위젯은 캘린더 권한 없이 날짜만 보여 주고, 누르면 캘린더 앱을 엽니다. 사진 위젯은 사진 선택기로 고른 사진 한 장만 보여 주므로 사진 보관함 권한을 요청하지 않습니다.
 - 배경화면 심도 효과는 기기 안에서 처리합니다(Google ML Kit 피사체 분리, 앱에 들어 있는 MiDaS 깊이 모델). 사진은 기기 밖으로 나가지 않습니다. Google의 ML Kit 데이터 공개 문서에 따라 ML Kit는 모델을 내려받기 위해 Google에 연결하고, 기능 진단과 사용 분석을 위해 기기 정보(제조사, 모델, OS 버전), 앱 패키지 이름과 버전, 설치별 식별자, 성능 지표(처리 시간 등), 오류 코드를 HTTPS로 Google에 보냅니다. Google은 이 정보를 제3자에게 넘기지 않는다고 밝히고 있습니다. 사진은 보내지 않습니다.
 
@@ -52,7 +52,7 @@ Google 검색은 설치된 Google 앱을 씁니다. 앱, 검색 결과, 기사, 
 
 ## 내보내기, 문의, 삭제
 
-백업 파일은 설정 › 백업에서 저장을 고르고 위치를 정할 때만 만들어집니다. 파일에는 설치된 앱, 폴더 이름, 프로필 정보, 배치 설정과 함께 꾸미기 설정, 고른 배경·잠금화면·세워 두기 사진, 메모 위젯에 쓴 글이 들어 있습니다. 결제·체험 기록은 들어 있지 않습니다. 파일은 저장한 곳에만 있고 앱이 어디로도 보내지 않으니, 다른 사람과 공유하기 전에 확인하세요.
+백업 파일은 설정 › 백업에서 저장을 고르고 위치를 정할 때만 만들어집니다. 파일에는 설치된 앱, 폴더 이름, 프로필 정보, 배치 설정과 함께 꾸미기 설정, 고른 배경·잠금화면·세워 두기 사진, 메모 위젯에 쓴 글, 연락처 위젯의 연락처 참조(이름·번호 제외)가 들어 있습니다. 결제·체험 기록은 들어 있지 않습니다. 파일은 저장한 곳에만 있고 앱이 어디로도 보내지 않으니, 다른 사람과 공유하기 전에 확인하세요.
 
 Duomo 자체는 진단 정보를 올리지 않습니다(위 ML Kit 설명 참고). 문의에 직접 첨부하는 스크린샷이나 로그에는 개인정보가 담길 수 있으니 먼저 확인하세요.
 
@@ -78,7 +78,7 @@ Duomo 자체는 진단 정보를 올리지 않습니다(위 ML Kit 설명 참고
 
 # Privacy Policy
 
-Effective: October 30, 2026
+Effective: November 7, 2026
 
 Duomo (the "app") is provided by **열린컴퓨터** (the "operator"). Duomo stores settings, Home layout, widget placement, and selected wallpaper locally. It has no account system, backend, advertising, or analytics SDK of its own, and no automatic crash reporting. Google libraries it uses for on-device image processing are described below.
 
@@ -89,7 +89,7 @@ Duomo (the "app") is provided by **열린컴퓨터** (the "operator"). Duomo sto
 - Battery, Wi-Fi, cellular signal, and airplane-mode readings populate the Home status rail while visible. Signal display does not require location access.
 - Selecting a photo creates a local preview. Apply commits it; cancel preserves the previous background. Android's picker grants access to chosen images only.
 - Sunrise/sunset appearance uses only coordinates you type in. The app does not request location permission. Times are calculated locally, and Clear location removes the stored coordinates.
-- Contact search reads matching contacts only while you type in the search box, and only if you grant the Contacts permission. Nothing is stored or sent.
+- Contacts are read only if you grant the Contacts permission: to find matches while you type in the search box and, if you use the contact widget, to show the chosen person's name, photo and phone number and to open your phone or messaging app. Names and numbers aren't stored; the widget keeps only a contact reference on your device so it can find that person again. Contacts are never sent off your device.
 - The calendar widget shows the date without calendar access; tapping it opens your calendar app. The photo widget shows one photo you pick through Android's photo picker, so no photo-library permission is requested.
 - The wallpaper depth effect runs on the device (Google ML Kit subject segmentation and a bundled MiDaS depth model). Photos never leave the device. As described in Google's ML Kit data disclosure, ML Kit may contact Google to download models and sends Google, over HTTPS, diagnostic and usage-analytics data: device information (manufacturer, model, OS version), the app package name and version, a per-installation identifier, performance metrics such as latency, and error codes. Google states it does not transfer this data to third parties. It does not send your photos.
 
@@ -121,7 +121,7 @@ Google search uses the installed Google app. Apps, search results, articles, and
 
 ## Export, reports, and removal
 
-A backup file is created only when you choose Save in Settings › Backup and select a destination. Along with installed apps, folder names, profile metadata and layout preferences, it contains your customization settings, the background, lock screen and Stand mode photos you picked, and the text in memo widgets. Purchase and trial records are not included. The file stays only where you saved it and the app sends it nowhere; review it before sharing it with anyone.
+A backup file is created only when you choose Save in Settings › Backup and select a destination. Along with installed apps, folder names, profile metadata and layout preferences, it contains your customization settings, the background, lock screen and Stand mode photos you picked, the text in memo widgets, and contact references from contact widgets (no names or numbers). Purchase and trial records are not included. The file stays only where you saved it and the app sends it nowhere; review it before sharing it with anyone.
 
 Duomo itself uploads no diagnostics (see the ML Kit note above). Screenshots and logs you manually attach to issues may contain personal information, widget content, account names, or work data. Review them first.
 
