@@ -9,7 +9,7 @@ title: Duomo Privacy Policy
 
 [한국어](#ko) · [English](#en)
 
-시행일: 2026년 11월 7일
+시행일: 2026년 11월 8일
 
 Duomo(이하 "앱")는 **열린컴퓨터**(이하 "운영자")가 제공합니다. Duomo는 설정, 홈 배치, 위젯 위치, 고른 배경화면을 기기 안에만 저장합니다. 계정, 서버, 광고, 자체 분석 도구가 없고 오류 보고도 자동으로 보내지 않습니다. 기기 안 이미지 처리에 쓰는 Google 라이브러리는 아래에 따로 적었습니다.
 
@@ -40,7 +40,7 @@ Duomo Pro 평생권은 **Google Play 결제**로만 판매합니다. 카드 번�
 
 ## 의견 보내기
 
-앱의 설정 › 도움말 › "문제 신고 · 의견 보내기"나 [제보 페이지](https://bgiseok.github.io/duomo/feedback.html)로 보낸 내용은 운영자의 Google 설문지(Google Forms)에 저장됩니다. 앱에서 열면 앱 버전, 기기 모델, 안드로이드 버전, 화면 크기가 함께 채워지며, 보내기 전에 지우거나 고칠 수 있습니다. 이 내용은 문제를 고치고 앱을 개선하는 데만 쓰고 다른 곳에 넘기지 않습니다. 연락처 칸은 선택이며, 지워 달라고 요청하면 해당 응답을 지웁니다. 보내기 전까지 앱은 아무것도 전송하지 않습니다.
+앱의 설정 › 도움말 › "문제 신고 · 의견 보내기"나 [제보 페이지](https://bgiseok.github.io/duomo/feedback.html)로 보낸 내용은 운영자의 Google 설문지(Google Forms)에 저장됩니다. 앱에서 열면 앱 버전, 기기 모델, 안드로이드 버전, 화면 크기가 함께 채워지고, 앱이 종료된 뒤 '제보하기'로 열면 오류 종류와 앱 코드 위치(오류 메시지는 제외)도 채워지며, 보내기 전에 지우거나 고칠 수 있습니다. 이 내용은 문제를 고치고 앱을 개선하는 데만 쓰고 다른 곳에 넘기지 않습니다. 연락처 칸은 선택이며, 지워 달라고 요청하면 해당 응답을 지웁니다. 보내기 전까지 앱은 아무것도 전송하지 않습니다.
 
 ## 웹사이트 방문 통계
 
@@ -78,7 +78,7 @@ Duomo 자체는 진단 정보를 올리지 않습니다(위 ML Kit 설명 참고
 
 # Privacy Policy
 
-Effective: November 7, 2026
+Effective: November 8, 2026
 
 Duomo (the "app") is provided by **열린컴퓨터** (the "operator"). Duomo stores settings, Home layout, widget placement, and selected wallpaper locally. It has no account system, backend, advertising, or analytics SDK of its own, and no automatic crash reporting. Google libraries it uses for on-device image processing are described below.
 
@@ -109,7 +109,7 @@ The Duomo Pro lifetime pass is sold only through **Google Play billing**. Google
 
 ## Feedback
 
-What you send through Settings › Help › "Report a bug · Send feedback" or the [feedback page](https://bgiseok.github.io/duomo/feedback.html) is stored in the operator's Google Form (Google Forms). When opened from the app, the app version, device model, Android version and screen size are filled in; you can edit or remove them before sending. It is used only to fix problems and improve the app and is not shared. The contact field is optional, and we delete a response on request. Nothing is sent until you submit the form.
+What you send through Settings › Help › "Report a bug · Send feedback" or the [feedback page](https://bgiseok.github.io/duomo/feedback.html) is stored in the operator's Google Form (Google Forms). When opened from the app, the app version, device model, Android version and screen size are filled in, and when opened with "Report" after the app has closed unexpectedly, the error type and the location in the app's code (not the error message) are filled in as well; you can edit or remove them before sending. It is used only to fix problems and improve the app and is not shared. The contact field is optional, and we delete a response on request. Nothing is sent until you submit the form.
 
 ## Website statistics
 
