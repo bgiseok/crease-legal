@@ -9,13 +9,15 @@ title: Duomo Terms of Use
 
 [한국어](#ko) · [English](#en)
 
-시행일: 2026년 10월 31일
+시행일: 2026년 11월 18일
+
+> **2026년 11월 18일부터 바뀌는 점.** '1. 무료 기능'에 Google 계정 백업과 자동 백업을 폴더에도 저장하기를 넣고, '5. 데이터'에 Google 계정 백업 안내를 더했습니다. 이용자에게 불리한 변경은 없습니다. 11월 17일까지는 [이전 약관](terms-20261031.html)이 적용됩니다.
 
 Duomo(이하 "앱")는 **열린컴퓨터**(이하 "운영자")가 제공하는 안드로이드 폰과 폴더블용 홈 화면(런처) 앱입니다. 앱을 설치하거나 쓰면 이 약관에 동의한 것으로 봅니다.
 
 ## 1. 무료 기능과 Duomo Pro
 
-- 홈 화면, 모든 앱, 위젯, 폴더, 검색, 홈 편집(앱·위젯 옮기기, 지우기, 폴더 만들기), 파일 백업과 복원은 언제나 무료입니다.
+- 홈 화면, 모든 앱, 위젯, 폴더, 검색, 홈 편집(앱·위젯 옮기기, 지우기, 폴더 만들기), 파일 백업과 복원, Google 계정 백업, 자동 백업을 폴더에도 저장하기는 언제나 무료입니다.
 - 꾸미기 기능은 **Duomo Pro**로 제공합니다. 배경과 아이콘 디자인, 아이콘 크기·간격, 독과 위젯 모양, 잠금화면 빌더, 세워 두기 화면, 모양 프리셋과 시간대별 배경, 백업 플러스(바뀔 때마다 자동 백업)가 여기에 들어갑니다. 자세한 목록은 앱의 결제 화면에 표시합니다.
 
 ## 2. 7일 무료 체험
@@ -40,7 +42,7 @@ Duomo(이하 "앱")는 **열린컴퓨터**(이하 "운영자")가 제공하는 �
 
 ## 5. 데이터
 
-앱에는 계정이나 서버가 없고 설정은 기기 안에 저장됩니다. 자세한 내용은 [개인정보 처리방침](privacy.html)을 보세요.
+앱에는 계정이나 서버가 없고 설정은 기기 안에 저장됩니다. 홈 배치 자동 백업은 휴대폰의 Google 백업이 켜져 있으면 이용자의 Google 계정에도 저장되며, 운영자는 이를 받거나 볼 수 없습니다. 자세한 내용은 [개인정보 처리방침](privacy.html)을 보세요.
 
 ## 6. 책임의 한계
 
@@ -68,13 +70,15 @@ Duomo(이하 "앱")는 **열린컴퓨터**(이하 "운영자")가 제공하는 �
 
 # Duomo Terms of Use
 
-Effective: October 31, 2026
+Effective: November 18, 2026
+
+> **Changes from November 18, 2026.** Google account backup and saving automatic backups to a folder were added to "1. Free features", and a note on Google account backup was added to "5. Data". No change is to your disadvantage. Until November 17, the [previous terms](terms-20261031.html#en) apply.
 
 Duomo (the "app") is a home screen launcher for Android phones and foldables provided by **열린컴퓨터** (the "operator"). By installing or using the app, you agree to these terms.
 
 ## 1. Free features and Duomo Pro
 
-- Your Home screen, All apps, widgets, folders, search, Home editing (moving and removing apps and widgets, making folders) and file backup and restore are always free.
+- Your Home screen, All apps, widgets, folders, search, Home editing (moving and removing apps and widgets, making folders), file backup and restore, Google account backup, and saving automatic backups to a folder are always free.
 - Customization is offered as **Duomo Pro**: background and icon design, icon size and spacing, dock and widget styles, the lock screen builder, Stand mode, look presets and time-of-day backgrounds, and Backup Plus (automatic backup on every change). The full list is shown on the purchase screen in the app.
 
 ## 2. 7-day free trial
@@ -99,7 +103,7 @@ Duomo (the "app") is a home screen launcher for Android phones and foldables pro
 
 ## 5. Data
 
-The app has no account or server, and settings are stored on your device. See the [Privacy Policy](privacy.html).
+The app has no account or server, and settings are stored on your device. If Google backup is on, the automatic Home layout backup is also saved to your Google account; the operator cannot receive or see it. See the [Privacy Policy](privacy.html).
 
 ## 6. Limitation of liability
 

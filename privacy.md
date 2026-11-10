@@ -9,9 +9,11 @@ title: Duomo Privacy Policy
 
 [한국어](#ko) · [English](#en)
 
-시행일: 2026년 11월 8일
+시행일: 2026년 11월 18일
 
-Duomo(이하 "앱")는 **열린컴퓨터**(이하 "운영자")가 제공합니다. Duomo는 설정, 홈 배치, 위젯 위치, 고른 배경화면을 기기 안에만 저장합니다. 계정, 서버, 광고, 자체 분석 도구가 없고 오류 보고도 자동으로 보내지 않습니다. 기기 안 이미지 처리에 쓰는 Google 라이브러리는 아래에 따로 적었습니다.
+> **2026년 11월 18일부터 바뀌는 점.** ① 홈 배치 자동 백업이 휴대폰의 Google 백업을 통해 이용자의 Google 계정에도 저장될 수 있다는 안내 ② 선택 기능 '폴더에도 저장' ③ 앱을 지운 뒤에도 남는 파일 안내 ④ 아래로 쓸어 알림창을 열 때 접근성 서비스를 쓸지 처음에 묻는다는 안내를 더했습니다. 11월 17일까지는 [이전 방침](privacy-20261108.html)이 적용됩니다.
+
+Duomo(이하 "앱")는 **열린컴퓨터**(이하 "운영자")가 제공합니다. Duomo는 설정, 홈 배치, 위젯 위치, 고른 배경화면을 기기 안에 저장합니다. 홈 배치 자동 백업은 휴대폰의 Google 백업이 켜져 있으면 이용자의 Google 계정에도 저장됩니다(아래 '내보내기, 문의, 삭제'). 계정, 서버, 광고, 자체 분석 도구가 없고 오류 보고도 자동으로 보내지 않습니다. 기기 안 이미지 처리에 쓰는 Google 라이브러리는 아래에 따로 적었습니다.
 
 ## 기기 안에서 쓰는 정보
 
@@ -26,7 +28,7 @@ Duomo(이하 "앱")는 **열린컴퓨터**(이하 "운영자")가 제공합니�
 
 ## 선택 기능
 
-홈에서 아래로 쓸어내리면 안드로이드 표준 상태바 권한으로 알림이나 빠른 설정을 엽니다. '홈 두 번 탭으로 화면 끄기'를 켜면 안드로이드 접근성 서비스('Duomo 제스처')를 씁니다. 이 서비스는 화면을 끄거나 알림창을 여는 동작만 하고, 접근성 이벤트를 받지 않으며 화면 내용을 읽거나 다른 앱을 지켜보지 않습니다. 설정에서 끄면 바로 멈춥니다.
+홈에서 아래로 쓸어내리면 알림이나 빠른 설정을 엽니다. 처음 쓸어내릴 때 안드로이드 접근성 서비스('Duomo 제스처')를 쓸지 묻고, 동의해서 켜면 이 서비스로, 거부하면 안드로이드 표준 상태바 권한으로 엽니다. '홈 두 번 탭으로 화면 끄기'를 켤 때도 같은 서비스를 씁니다. 이 서비스는 화면을 끄거나 알림창을 여는 동작만 하고, 접근성 이벤트를 받지 않으며 화면 내용을 읽거나 다른 앱을 지켜보지 않습니다. 설정에서 끄면 바로 멈춥니다.
 
 알림 배지(선택): 시스템 설정에서 '알림 접근'을 허용하면 앱 아이콘에 알림 개수를 빨간 숫자로 보여 줍니다. Duomo는 어느 앱에 알림이 몇 개 있는지만 기기 안에서 세며, 알림의 제목·내용은 읽거나 저장하거나 기기 밖으로 보내지 않습니다. 허용하지 않아도 다른 기능은 그대로 쓸 수 있고, 설정 › 제스처 및 검색에서 배지를 끄거나 시스템 설정에서 접근을 언제든 해제할 수 있습니다.
 
@@ -54,9 +56,13 @@ Google 검색은 설치된 Google 앱을 씁니다. 앱, 검색 결과, 기사, 
 
 백업 파일은 설정 › 백업에서 저장을 고르고 위치를 정할 때만 만들어집니다. 파일에는 설치된 앱, 폴더 이름, 프로필 정보, 배치 설정과 함께 꾸미기 설정, 고른 배경·잠금화면·세워 두기 사진, 메모 위젯에 쓴 글, 연락처 위젯의 연락처 참조(이름·번호 제외)가 들어 있습니다. 결제·체험 기록은 들어 있지 않습니다. 파일은 저장한 곳에만 있고 앱이 어디로도 보내지 않으니, 다른 사람과 공유하기 전에 확인하세요.
 
+**자동 백업과 Google 계정 백업.** 자동 백업은 홈 배치(설치된 앱과 위치, 프로필 정보, 폴더 이름과 색, 위젯 자리·크기·겹쳐 두기 순서, '모든 앱'의 분류와 묶음 이름, 앱별로 바꾼 이름·아이콘·아이콘 크기, 홈 레이아웃 설정)를 기기 안에 저장합니다. 휴대폰 설정에서 Google 백업이 켜져 있으면 안드로이드가 이 자동 백업 파일을 이용자의 Google 계정(Google 드라이브의 앱 전용 공간으로, 이용자 드라이브 용량에 들어가지 않고 이용자와 운영자 모두 열어 볼 수 없음)에 올려 두었다가, 앱을 다시 설치하거나 새 휴대폰으로 옮길 때 되돌려 줍니다. 휴대폰끼리 직접 옮기는 기능을 쓸 때도 이 파일만 옮겨집니다. 그 밖의 꾸미기 설정(배경·아이콘 디자인 등), 사진, 사진 아이콘, 메모, 연락처 참조, 결제·체험·동의 기록은 올리지 않습니다. 운영자는 이 백업을 받거나 볼 수 없습니다. 휴대폰 설정 › Google › 백업에서 끌 수 있으며, Google의 백업 처리에는 Google 개인정보처리방침이 적용됩니다.
+
+**폴더에도 저장(선택).** 설정 › 백업에서 이 기능을 켜고 폴더를 고르면, 자동 백업 때 위 백업 파일과 같은 내용의 파일을 고른 폴더에도 저장합니다. 고른 곳이 Google 드라이브 같은 클라우드 폴더면 그 앱이 파일을 올리며 그 서비스의 정책이 적용됩니다. Duomo는 고른 폴더에 파일을 쓰기만 하고 다른 곳으로 보내지 않습니다. 끄면 더 이상 저장하지 않고, 이미 저장된 파일은 그 폴더에 남습니다.
+
 Duomo 자체는 진단 정보를 올리지 않습니다(위 ML Kit 설명 참고). 문의에 직접 첨부하는 스크린샷이나 로그에는 개인정보가 담길 수 있으니 먼저 확인하세요.
 
-앱을 지우거나 저장공간을 비우면 Duomo의 설정, 사진, 위젯 연결이 지워집니다. 내보낸 파일은 저장한 곳에 남습니다. 평생권 구매 기록은 Google 계정에 남아 다시 설치해도 '구매 복원'으로 돌아옵니다.
+앱을 지우거나 저장공간을 비우면 Duomo의 설정, 사진, 위젯 연결이 지워집니다. 내보낸 파일과 폴더에 저장한 파일은 저장한 곳에, Google 계정 백업은 Google의 보관 기준에 따라 남습니다. 평생권 구매 기록은 Google 계정에 남아 다시 설치해도 '구매 복원'으로 돌아옵니다.
 
 설문지 응답은 처리가 끝나면 지우며, 주문 정보는 「전자상거래 등에서의 소비자보호에 관한 법률」에 따라 대금 결제·재화 공급 기록 5년, 소비자 불만·분쟁 처리 기록 3년 동안 보관한 뒤 지웁니다.
 
@@ -78,9 +84,11 @@ Duomo 자체는 진단 정보를 올리지 않습니다(위 ML Kit 설명 참고
 
 # Privacy Policy
 
-Effective: November 8, 2026
+Effective: November 18, 2026
 
-Duomo (the "app") is provided by **열린컴퓨터** (the "operator"). Duomo stores settings, Home layout, widget placement, and selected wallpaper locally. It has no account system, backend, advertising, or analytics SDK of its own, and no automatic crash reporting. Google libraries it uses for on-device image processing are described below.
+> **Changes from November 18, 2026.** We added ① that the automatic Home layout backup may also be saved to your Google account through your phone's Google backup, ② the optional "Also save to a folder" feature, ③ which files remain after you uninstall, and ④ that Duomo asks the first time you swipe down whether to use the accessibility service to open the notification panel. Until November 17, the [previous policy](privacy-20261108.html#en) applies.
+
+Duomo (the "app") is provided by **열린컴퓨터** (the "operator"). Duomo stores settings, Home layout, widget placement, and selected wallpaper locally. If Google backup is on, the automatic Home layout backup is also saved to your Google account (see Export, reports, and removal below). It has no account system, backend, advertising, or analytics SDK of its own, and no automatic crash reporting. Google libraries it uses for on-device image processing are described below.
 
 ## Data used on your device
 
@@ -95,7 +103,7 @@ Duomo (the "app") is provided by **열린컴퓨터** (the "operator"). Duomo sto
 
 ## Optional access
 
-Swipe down on Home opens notifications or Quick Settings through Android's standard status bar permission. If you turn on 'Double-tap Home to turn off the screen', Duomo uses an Android accessibility service ('Duomo gestures'). It only performs the lock-screen and open-shade actions, receives no accessibility events, and does not read screen content or observe other apps. It stops as soon as you turn it off in Settings.
+Swipe down on Home opens notifications or Quick Settings. The first time you swipe down, Duomo asks whether to use an Android accessibility service ('Duomo gestures'): if you agree and turn it on, the service opens the panel; if you decline, Android's standard status bar permission does. 'Double-tap Home to turn off the screen' uses the same service. It only performs the lock-screen and open-shade actions, receives no accessibility events, and does not read screen content or observe other apps. It stops as soon as you turn it off in Settings.
 
 Notification badges (optional): if you allow 'Notification access' in system settings, Duomo shows a red count on app icons. Duomo only counts how many notifications each app has, on your device; it does not read, store or transmit their titles or content. Everything else works without it, and you can turn badges off in Settings › Gestures & Search or revoke access in system settings at any time.
 
@@ -123,9 +131,13 @@ Google search uses the installed Google app. Apps, search results, articles, and
 
 A backup file is created only when you choose Save in Settings › Backup and select a destination. Along with installed apps, folder names, profile metadata and layout preferences, it contains your customization settings, the background, lock screen and Stand mode photos you picked, the text in memo widgets, and contact references from contact widgets (no names or numbers). Purchase and trial records are not included. The file stays only where you saved it and the app sends it nowhere; review it before sharing it with anyone.
 
+**Automatic backup and Google account backup.** Automatic backup stores your Home layout (installed apps and their positions, profile metadata, folder names and colors, widget spots, sizes and stack order, All apps categories and their names, per-app names, icons and icon sizes you changed, and Home layout settings) on your device. If Google backup is turned on in your phone's settings, Android uploads this automatic backup file to your Google account (a private app folder in Google Drive that doesn't count toward your Drive storage and that neither you nor the operator can open) and returns it when you reinstall the app or move to a new phone. A direct phone-to-phone transfer also moves only this file. Other customization settings (background and icon design and so on), photos, photo icons, memos, contact references, and purchase, trial and consent records are not uploaded. The operator cannot receive or see this backup. You can turn it off in your phone's Settings › Google › Backup; Google's Privacy Policy applies to how Google handles backups.
+
+**Also save to a folder (optional).** If you turn this on in Settings › Backup and pick a folder, each automatic backup also saves a file with the same contents as the backup file above to that folder. If the folder belongs to a cloud app such as Google Drive, that app uploads the file and its policies apply. Duomo only writes the file to the folder you picked and sends it nowhere else. Turning it off stops new saves; files already saved stay in the folder.
+
 Duomo itself uploads no diagnostics (see the ML Kit note above). Screenshots and logs you manually attach to issues may contain personal information, widget content, account names, or work data. Review them first.
 
-Uninstalling or clearing storage removes Duomo's local settings, photos, and widget bindings. Exported files remain where you saved them. Your lifetime pass stays with your Google account and comes back with "Restore purchase" after reinstalling. Android and device vendors may provide their own diagnostics independently of Duomo.
+Uninstalling or clearing storage removes Duomo's local settings, photos, and widget bindings. Exported files and files saved to a folder remain where you saved them, and a Google account backup is kept under Google's retention rules. Your lifetime pass stays with your Google account and comes back with "Restore purchase" after reinstalling. Android and device vendors may provide their own diagnostics independently of Duomo.
 
 Feedback responses are deleted once handled. Order information is kept as required by the Korean Act on Consumer Protection in Electronic Commerce: payment and supply records for 5 years and complaint and dispute records for 3 years, then deleted.
 
