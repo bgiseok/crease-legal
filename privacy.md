@@ -9,9 +9,9 @@ title: Duomo Privacy Policy
 
 [한국어](#ko) · [English](#en)
 
-시행일: 2026년 11월 18일
+시행일: 2026년 11월 10일
 
-> **2026년 11월 18일부터 바뀌는 점.** ① 홈 배치 자동 백업이 휴대폰의 Google 백업을 통해 이용자의 Google 계정에도 저장될 수 있다는 안내 ② 선택 기능 '폴더에도 저장' ③ 앱을 지운 뒤에도 남는 파일 안내 ④ 아래로 쓸어 알림창을 열 때 접근성 서비스를 쓸지 처음에 묻는다는 안내를 더했습니다. 11월 17일까지는 [이전 방침](privacy-20261108.html)이 적용됩니다.
+> **2026년 11월 10일 바뀐 점.** ① 홈 배치 자동 백업이 휴대폰의 Google 백업을 통해 이용자의 Google 계정에도 저장될 수 있다는 안내 ② 선택 기능 '폴더에도 저장' ③ 앱을 지운 뒤에도 남는 파일 안내 ④ 아래로 쓸어 알림창을 열 때 접근성 서비스를 쓸지 처음에 묻는다는 안내를 더했습니다. ①·②·④는 앱 1.0.115 업데이트부터 해당합니다. 운영자가 새로 받는 정보는 없습니다. [이전 방침](privacy-20261108.html)
 
 Duomo(이하 "앱")는 **열린컴퓨터**(이하 "운영자")가 제공합니다. Duomo는 설정, 홈 배치, 위젯 위치, 고른 배경화면을 기기 안에 저장합니다. 홈 배치 자동 백업은 휴대폰의 Google 백업이 켜져 있으면 이용자의 Google 계정에도 저장됩니다(아래 '내보내기, 문의, 삭제'). 계정, 서버, 광고, 자체 분석 도구가 없고 오류 보고도 자동으로 보내지 않습니다. 기기 안 이미지 처리에 쓰는 Google 라이브러리는 아래에 따로 적었습니다.
 
@@ -84,9 +84,9 @@ Duomo 자체는 진단 정보를 올리지 않습니다(위 ML Kit 설명 참고
 
 # Privacy Policy
 
-Effective: November 18, 2026
+Effective: November 10, 2026
 
-> **Changes from November 18, 2026.** We added ① that the automatic Home layout backup may also be saved to your Google account through your phone's Google backup, ② the optional "Also save to a folder" feature, ③ which files remain after you uninstall, and ④ that Duomo asks the first time you swipe down whether to use the accessibility service to open the notification panel. Until November 17, the [previous policy](privacy-20261108.html#en) applies.
+> **Changes on November 10, 2026.** We added ① that the automatic Home layout backup may also be saved to your Google account through your phone's Google backup, ② the optional "Also save to a folder" feature, ③ which files remain after you uninstall, and ④ that Duomo asks the first time you swipe down whether to use the accessibility service to open the notification panel.  Items ①, ② and ④ apply from app version 1.0.115. The operator receives no new information. [Previous policy](privacy-20261108.html#en)
 
 Duomo (the "app") is provided by **열린컴퓨터** (the "operator"). Duomo stores settings, Home layout, widget placement, and selected wallpaper locally. If Google backup is on, the automatic Home layout backup is also saved to your Google account (see Export, reports, and removal below). It has no account system, backend, advertising, or analytics SDK of its own, and no automatic crash reporting. Google libraries it uses for on-device image processing are described below.
 
